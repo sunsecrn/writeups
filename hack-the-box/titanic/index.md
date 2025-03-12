@@ -1,5 +1,3 @@
-# Titanic
-
 ## Introdução
 
 Titanic é uma máquina Linux classificada como easy no Hack The Box, que envolve a exploração de uma vulnerabilidade de Path Traversal em uma aplicação Flask e análise de configurações do Gitea para escalação de privilégios
