@@ -1,3 +1,5 @@
+# Titanic
+
 ## Introdução
 
 Titanic é uma máquina Linux classificada como easy no Hack The Box, que envolve a exploração de uma vulnerabilidade de Path Traversal em uma aplicação Flask e análise de configurações do Gitea para escalação de privilégios
@@ -111,9 +113,7 @@ root:x:0:0:root:/root:/bin/bash
 developer:x:1000:1000:developer:/home/developer:/bin/bash
 ```
 
-[Documentação Gitea:](https://docs.gitea.com/administration/config-cheat-sheet)
-
-Lendo a documentação do Gitea, podemos identificar a localização padrão dos arquivos de configuração. O arquivo de configuração é salvo em `etc/gitea/conf/app.ini`; após a instalação, podemos utilizar o caminho `/home/developer/gitea/data:/data` (recuperado anteriormente) para localizar o arquivo `app.ini`.
+Lendo a [documentação do Gitea](https://docs.gitea.com/administration/config-cheat-sheet), podemos identificar a localização padrão dos arquivos de configuração. O arquivo de configuração é salvo em `etc/gitea/conf/app.ini`; após a instalação, podemos utilizar o caminho `/home/developer/gitea/data:/data` (recuperado anteriormente) para localizar o arquivo `app.ini`.
 
 (No momento da escrita deste writeup, estes posts estão indisponíveis.)
 
@@ -257,4 +257,4 @@ Este exercício demonstrou a exploração da vulnerabilidade de Path Traversal p
 - andre
 - rio
 - lucas
-- eduardo
+- [paixao](https://www.linkedin.com/in/darccau)
