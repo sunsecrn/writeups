@@ -1,19 +1,3 @@
----
-id: index
-aliases: []
-tags:
-  - CTF
-  - Hack the Box
-authors:
-  - Nami
-date: "2025-02-21"
-draft: false
-showAuthor: false
-showAuthorsBadges: false
-summary: Solution for the Hack the Box machine Titanic
-title: Hack the Box - Titanic
----
-
 ## Introdução
 
 Titanic é uma máquina Linux classificada como easy no Hack The Box, que envolve a exploração de uma vulnerabilidade de Path Traversal em uma aplicação Flask e análise de configurações do Gitea para escalação de privilégios
