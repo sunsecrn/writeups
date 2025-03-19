@@ -252,7 +252,7 @@ Este exercício demonstrou a exploração da vulnerabilidade de Path Traversal p
 
 ## contribuidores
 
-- andre
-- rio
-- lucas
+- [andre](https://www.linkedin.com/in/andreluisdantas65)
+- [rio](https://www.linkedin.com/in/rio-ribeiro)
+- [lucas](https://www.linkedin.com/in/lucas-rs-melo)
 - [paixao](https://www.linkedin.com/in/darccau)
